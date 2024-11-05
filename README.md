@@ -4,7 +4,7 @@
 <h3> 📋 Profile details </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/react/0-profile-details.svg" alt="Description">
+  <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
 </p>
 
 <h3> 📊 Weekly development breakdown </h3>
