@@ -3,7 +3,9 @@
 
 📋 Profile details
 
-<img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description" style="display: block; margin-left: auto; margin-right: auto;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
+</p>
 
 📊 Weekly development breakdown
 
