@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathan Hu</h1>
 <h3 align="center">A master's student at Sun Yat-sen University.</h3>
 
-👨‍💻 Profile details
+📋 Profile details
 
-![](https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+<img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description" style="display: block; margin-left: auto; margin-right: auto;">
 
 📊 Weekly development breakdown
 
