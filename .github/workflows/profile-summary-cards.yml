@@ -20,3 +20,4 @@ jobs:
               with:
                   USERNAME: ${{ github.repository_owner }}
                   UTC_OFFSET: 8
+                  BRANCH_NAME: "main"
