@@ -12,11 +12,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 November 2024 - To: 04 November 2024
+From: 04 November 2024 - To: 05 November 2024
 
-Total Time: 0 secs
+Total Time: 4 hrs 45 mins
 
-No activity tracked
+Astro         1 hr 25 mins    >>>>>>>------------------   29.82 %
+Markdown      1 hr 1 min      >>>>>--------------------   21.41 %
+TypeScript    35 mins         >>>----------------------   12.30 %
+CSS           34 mins         >>>----------------------   11.94 %
+JavaScript    4 mins          -------------------------   01.49 %
+TSConfig      0 secs          -------------------------   00.13 %
+Image (svg)   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
