@@ -19,6 +19,7 @@ Total Time: 4 hrs 45 mins
 Astro         1 hr 25 mins    >>>>>>>------------------   29.82 %
 Markdown      1 hr 1 min      >>>>>--------------------   21.41 %
 TypeScript    35 mins         >>>----------------------   12.30 %
+CSS           34 mins         >>>----------------------   11.94 %
 ```
 
 <!--END_SECTION:waka-->
