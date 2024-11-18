@@ -3,13 +3,13 @@
 
 <h3> 📋 Profile Details </h3>
 
-<p style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Description">
     <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Description">
   </div>
-</p>
+</div>
 
 
 
