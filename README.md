@@ -4,7 +4,7 @@
 <h3> 📋 Profile Details </h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
 </div>
 
 <h3> 📚 Latest Blog Posts </h3> 
