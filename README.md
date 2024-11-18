@@ -9,7 +9,7 @@
 
 <h3> 📚 Latest Blog Posts </h3> 
 
-<!-- BLOG-POST-LIST:START -->[Mon Nov 18 2024 12:00 AM:An Introduction to LSH for ANNS](https://jonathanhu.tech/2024/11/18/an-introduction-to-lsh-for-anns/post/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Mon Nov 18 2024 12:00 AM:An Introduction to LSH for ANNS](https://jonathanhu.tech/2024/11/18/an-introduction-to-lsh-for-anns/post/)<!-- BLOG-POST-LIST:END -->
 
 <h3> 📊 Weekly development breakdown </h3>
 
