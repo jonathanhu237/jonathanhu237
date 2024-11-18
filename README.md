@@ -7,6 +7,11 @@
   <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
 </p>
 
+<h3> 📚 Latest Blog Posts </h3> 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3> 📊 Weekly development breakdown </h3>
 
 <!--START_SECTION:waka-->
