@@ -3,15 +3,9 @@
 
 <h3> 📋 Profile Details </h3>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Description">
-    <img src="https://raw.githubusercontent.com/jonathanhu237/jonathanhu237/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Description">
-  </div>
 </div>
-
-
 
 <h3> 📚 Latest Blog Posts </h3> 
 
@@ -28,9 +22,9 @@ From: 04 November 2024 - To: 17 November 2024
 
 Total Time: 33 hrs 47 mins
 
-Markdown      16 hrs 11 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.61 %
-TypeScript    4 hrs 1 min     ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.59 %
-Astro         2 hrs 6 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.07 %
+Markdown      16 hrs 11 mins  ███████████▓░░░░░░░░░░░░░   46.61 %
+TypeScript    4 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Astro         2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
 ```
 
 <!--END_SECTION:waka-->
