@@ -10,6 +10,7 @@
 <h3> 📚 Latest Blog Posts </h3> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Distributions for LSH](https://jonathanhu.tech/2024/11/18/stable-distributions-for-lsh/post/)
 - [An Introduction to LSH for ANNS](https://jonathanhu.tech/2024/11/18/an-introduction-to-lsh-for-anns/post/)
 <!-- BLOG-POST-LIST:END -->
 
