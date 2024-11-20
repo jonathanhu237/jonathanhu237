@@ -17,4 +17,5 @@ jobs:
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
                   feed_list: "https://jonathanhu.tech/atom.xml"
-                  template: default
+                  date_format: yyyy-mm-dd
+                  template: "$newline- $date [$title]($url)"
