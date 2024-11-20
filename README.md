@@ -13,7 +13,7 @@ Jonathan Hu here – here’s a quick introduction about me:
 <h3> 📚 Latest Blog Posts </h3> 
 
 <!-- BLOG-POST-LIST:START -->
-- 2024-11-18 [Stable Distributions for LSH](https://jonathanhu.tech/posts/stable-distributions-for-lsh/)
+- 2024-11-20 [Stable Distributions for LSH](https://jonathanhu.tech/posts/stable-distributions-for-lsh/)
 - 2024-11-18 [An Introduction to LSH for ANNS](https://jonathanhu.tech/posts/an-introduction-to-lsh-for-anns/)<!-- BLOG-POST-LIST:END -->
 
 <h3> 📊 Weekly Development Breakdown </h3>
