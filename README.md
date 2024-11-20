@@ -22,8 +22,8 @@ TOML          2 hrs 44 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<h3> 📋 Profile Details </h3>
+<!-- <h3> 📋 Profile Details </h3>
 
 <div align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
-</div>
+</div> -->
