@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jonathan Hu</h1>
-<h3 align="center">A master's student at Sun Yat-sen University.</h3>
+<h2>Hi 👋</h2>
+
+Jonathan Hu here – here’s a quick introduction about me:
+
+- 🏫 I'm a master's student at Sun Yat-sen University.
+
+- 🔬 My research focuses on Locality-Sensitive Hashing.
+
+- 🌱 I’m currently learning React and Go.
+
+- 📝 I regularly write articles on [https://jonathanhu.tech/](https://jonathanhu.tech/).
 
 <h3> 📚 Latest Blog Posts </h3> 
 
