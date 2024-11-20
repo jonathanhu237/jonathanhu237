@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan Hu</h1>
 <h3 align="center">A master's student at Sun Yat-sen University.</h3>
 
-<h3> 📋 Profile Details </h3>
-
-<div align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
-</div>
-
 <h3> 📚 Latest Blog Posts </h3> 
 
 <!-- BLOG-POST-LIST:START -->
@@ -30,3 +24,9 @@ CSS           2 hrs 31 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+<h3> 📋 Profile Details </h3>
+
+<div align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Description">
+</div>
