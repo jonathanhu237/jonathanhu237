@@ -19,3 +19,4 @@ jobs:
                   feed_list: "https://jonathanhu.tech/atom.xml"
                   date_format: yyyy-mm-dd
                   template: "$newline- $date [$title]($url)"
+                  commit_message: "docs: updated with the latest blog posts"
