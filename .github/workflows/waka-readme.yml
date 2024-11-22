@@ -19,4 +19,6 @@ jobs:
                   COMMIT_MESSAGE: "docs: update WakaTime stats"
                   BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
                   TIME_RANGE: last_7_days
+                  SHOW_TITLE: true
                   SHOW_TIME: true
+                  SHOW_TOTAL: true
