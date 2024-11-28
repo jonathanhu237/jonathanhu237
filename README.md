@@ -13,6 +13,7 @@ Jonathan Hu here – here’s a quick introduction about me:
 <h3> 📚 Latest Blog Posts </h3> 
 
 <!-- BLOG-POST-LIST:START -->
+- 2024-11-28 [A Distortion Embedding From Any Metric Space to Chebyshev Space](https://jonathanhu.tech/posts/a-distortion-embedding-from-any-metric-space-to-chebyshev-space/)
 - 2024-11-24 [Isometric Embeddings of Metric Spaces into Chebyshev Space](https://jonathanhu.tech/posts/isometric-embeddings-of-metric-spaces-into-chebyshev-space/)
 - 2024-11-22 [Stable Distributions for LSH](https://jonathanhu.tech/posts/stable-distributions-for-lsh/)
 - 2024-11-17 [An Introduction to LSH for ANNS](https://jonathanhu.tech/posts/an-introduction-to-lsh-for-anns/)<!-- BLOG-POST-LIST:END -->
