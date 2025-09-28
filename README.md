@@ -21,9 +21,9 @@ Jonathan Hu here – here’s a quick introduction about me:
 
 <h3> 📊 Weekly Development Breakdown </h3>
 
-<!--START_SECTION:waka-->
+<!-- START_SECTION:waka-->
 
-```txt
+<!-- ```txt
 From: 20 September 2025 - To: 27 September 2025
 
 Total Time: 16 hrs 37 mins
@@ -33,6 +33,6 @@ TeX        3 hrs 29 mins   ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 C++        39 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.95 %
 Markdown   3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.33 %
 JSON       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 %
-```
+``` -->
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka -->
