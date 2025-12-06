@@ -1,6 +1,6 @@
 <h2>Hi 👋</h2>
 
-Here’s a quick introduction about me:
+Zezhao here – Here’s a quick introduction about me:
 
 - 🏫 I'm a master's student at Sun Yat-sen University.
 
