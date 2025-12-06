@@ -16,7 +16,7 @@ jobs:
             - name: Pull in dev.to posts
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
-                  feed_list: "https://jonathanhu.tech/atom.xml"
+                  feed_list: "https://blog.zezhao-hu.dev/rss.xml"
                   date_format: yyyy-mm-dd
                   template: "$newline- $date [$title]($url)"
                   commit_message: "docs: updated with the latest blog posts"
