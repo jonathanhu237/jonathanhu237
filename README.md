@@ -6,4 +6,4 @@ Here’s a quick introduction about me:
 
 - 🔬 My research focuses on Locality-Sensitive Hashing.
 
-<!-- - 📝 I regularly write articles on [https://jonathanhu.tech/](https://jonathanhu.tech/). -->
+- 📝 I regularly write articles on [https://blog.zezhao-hu.dev](https://blog.zezhao-hu.dev).
