@@ -4,7 +4,7 @@ Zezhao here – Here’s a quick introduction about me:
 
 - 🏫 I'm a master's student at Sun Yat-sen University.
 
-- 🔬 My research focuses on approximate nearest neighbor search and vector databases.
+- 🔬 My research focuses on approximate nearest neighbor search.
 
 - 📝 I regularly write articles on [https://blog.zezhao-hu.dev](https://blog.zezhao-hu.dev).
 
